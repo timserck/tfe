@@ -1,0 +1,51 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="125px" height="125px" viewBox="0 0 125 125" enable-background="new 0 0 125 125" xml:space="preserve">
+<symbol id='logo' viewBox="0 0 53.357 61.5">
+<polygon fill="#F2633D" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+	26.672,30.948 26.672,55.5 5.288,43.225 5.288,18.276 "/>
+<polygon fill="#5A97D1" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+	26.687,30.948 26.687,55.5 48.071,43.225 48.056,18.478 "/>
+<polyline fill="#81D2EB" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+	48.056,43.225 26.672,30.948 5.288,43.225 26.672,55.5 48.056,43.225 "/>
+<polyline fill="#F4B74A" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+	48.056,18.478 26.672,6 5.288,18.276 26.672,30.948 48.056,18.478 "/>
+<g>
+	<polygon fill="#BDCF3F" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+		26.672,30.948 26.672,38.867 19.543,34.908 19.543,26.592 	"/>
+
+		<polygon fill="#BDCF3F" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+			26.672,38.867 33.799,34.908 33.799,26.592 26.672,30.948 		"/>
+		<polygon fill="#BDCF3F" stroke="#FFFFFF" stroke-width="1.2375" stroke-linejoin="round" stroke-miterlimit="10" points="
+			19.543,26.592 26.672,30.948 33.993,26.66 26.672,22.632 		"/>
+
+</g>
+</symbol>
+
+<symbol id="icon-twitter" viewBox="0 0 16 16">
+<title>twitter</title>
+<path class="path1" d="M16 3.538c-0.588 0.263-1.222 0.438-1.884 0.516 0.678-0.406 1.197-1.050 1.444-1.816-0.634 0.375-1.338 0.65-2.084 0.797-0.6-0.638-1.453-1.034-2.397-1.034-1.813 0-3.281 1.469-3.281 3.281 0 0.256 0.028 0.506 0.084 0.747-2.728-0.138-5.147-1.444-6.766-3.431-0.281 0.484-0.444 1.050-0.444 1.65 0 1.138 0.578 2.144 1.459 2.731-0.538-0.016-1.044-0.166-1.488-0.409 0 0.013 0 0.028 0 0.041 0 1.591 1.131 2.919 2.634 3.219-0.275 0.075-0.566 0.116-0.866 0.116-0.212 0-0.416-0.022-0.619-0.059 0.419 1.303 1.631 2.253 3.066 2.281-1.125 0.881-2.538 1.406-4.078 1.406-0.266 0-0.525-0.016-0.784-0.047 1.456 0.934 3.181 1.475 5.034 1.475 6.037 0 9.341-5.003 9.341-9.341 0-0.144-0.003-0.284-0.009-0.425 0.641-0.459 1.197-1.038 1.637-1.697z"></path>
+</symbol>
+<symbol id="icon-facebook" viewBox="0 0 16 16">
+<title>facebook</title>
+<path class="path1" d="M9.5 3h2.5v-3h-2.5c-1.93 0-3.5 1.57-3.5 3.5v1.5h-2v3h2v8h3v-8h2.5l0.5-3h-3v-1.5c0-0.271 0.229-0.5 0.5-0.5z"></path>
+</symbol>
+<symbol id="icon-arrow-up" viewBox="0 0 16 16">
+<title>arrow-up</title>
+<path class="path1" d="M13.707 6.293l-5-5c-0.39-0.391-1.024-0.391-1.414 0l-5 5c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l3.293-3.293v9.586c0 0.552 0.448 1 1 1s1-0.448 1-1v-9.586l3.293 3.293c0.195 0.195 0.451 0.293 0.707 0.293s0.512-0.098 0.707-0.293c0.391-0.391 0.391-1.024 0-1.414z"></path>
+</symbol>
+<symbol id="icon-arrow-right" viewBox="0 0 16 16">
+<title>arrow-right</title>
+<path class="path1" d="M9.707 13.707l5-5c0.391-0.39 0.391-1.024 0-1.414l-5-5c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414l3.293 3.293h-9.586c-0.552 0-1 0.448-1 1s0.448 1 1 1h9.586l-3.293 3.293c-0.195 0.195-0.293 0.451-0.293 0.707s0.098 0.512 0.293 0.707c0.391 0.391 1.024 0.391 1.414 0z"></path>
+</symbol>
+<symbol id="icon-arrow-down" viewBox="0 0 16 16">
+<title>arrow-down</title>
+<path class="path1" d="M13.707 9.707l-5 5c-0.39 0.391-1.024 0.391-1.414 0l-5-5c-0.391-0.391-0.391-1.024 0-1.414s1.024-0.391 1.414 0l3.293 3.293v-9.586c0-0.552 0.448-1 1-1s1 0.448 1 1v9.586l3.293-3.293c0.195-0.195 0.451-0.293 0.707-0.293s0.512 0.098 0.707 0.293c0.391 0.391 0.391 1.024 0 1.414z"></path>
+</symbol>
+<symbol id="icon-arrow-left" viewBox="0 0 16 16">
+<title>arrow-left</title>
+<path class="path1" d="M6.293 13.707l-5-5c-0.391-0.39-0.391-1.024 0-1.414l5-5c0.391-0.391 1.024-0.391 1.414 0s0.391 1.024 0 1.414l-3.293 3.293h9.586c0.552 0 1 0.448 1 1s-0.448 1-1 1h-9.586l3.293 3.293c0.195 0.195 0.293 0.451 0.293 0.707s-0.098 0.512-0.293 0.707c-0.391 0.391-1.024 0.391-1.414 0z"></path>
+</symbol>
+
+</svg>
+
+
